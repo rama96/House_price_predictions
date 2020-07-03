@@ -1,0 +1,46 @@
+# Compiled python modules.
+*.pyc
+
+# VS Code
+.vscode/
+
+# Python virtual enviroment
+env/*
+
+# Enviroment variables
+.env
+
+# Other files
+__pycache__
+.tox
+.coverage
+*-checkpoint.ipynb
+#*.xlsx
+#*.csv
+#bv_pricing.egg-info/*
+
+# Keys
+input_output/*
+
+# Removing cache directory.
+.cache_data/*
+
+
+# mypy ect.
+.mypy_cache
+.cache
+
+# Output files
+yesterday_tables.txt
+DATA/*
+*.png
+*.html
+*.xlsm
+
+# BigQuery Cred
+BigQueryKey.json
+
+# Documentation
+docs/_build/*
+keys/lars_credentials.json
+keys/configuration-update-engine-key.json
