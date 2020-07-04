@@ -2,6 +2,7 @@ pandas
 pandas-gbq
 pandasql
 numpy
+tensorflow
 
 # Process bar
 tqdm==4.33.0
