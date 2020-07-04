@@ -1,0 +1,15 @@
+-r base.txt
+
+# Linting and formatting
+black
+mypy
+flake8
+
+pre-commit
+
+# Testing
+pytest
+tox
+docker
+# Documentation
+pydoc-markdown

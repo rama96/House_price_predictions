@@ -1,0 +1,29 @@
+pandas
+pandas-gbq
+pandasql
+numpy
+
+# Process bar
+tqdm==4.33.0
+
+# Working with Excel
+xlrd
+
+# Forcing six to be higher than 1.13 to be compliant google-cloud-bigquery.
+six==1.14.0
+
+# Add for scraping LARS
+selenium
+bs4
+
+# Saving files
+pyarrow
+
+# For loading env files
+python-dotenv
+click
+
+# Map visualization
+folium
+
+sendgrid
