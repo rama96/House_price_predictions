@@ -3,9 +3,16 @@ pandas-gbq
 pandasql
 numpy
 tensorflow
+<<<<<<< HEAD
 matplotlib
 seaborn
 sklearn
+=======
+scikit-learn
+xgboost
+seaborn
+sklearn_pandas
+>>>>>>> 7e60bb7180d55e4807323445e8fadd21c5ea1abd
 
 # Process bar
 tqdm==4.33.0
