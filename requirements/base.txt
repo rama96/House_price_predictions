@@ -3,6 +3,9 @@ pandas-gbq
 pandasql
 numpy
 tensorflow
+matplotlib
+seaborn
+sklearn
 scikit-learn
 xgboost
 seaborn

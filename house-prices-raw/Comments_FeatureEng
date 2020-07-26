@@ -1,0 +1,29 @@
+1stFlrSF: First Floor square feet
+ 
+2ndFlrSF: Second floor square feet
+
+LowQualFinSF: Low quality finished square feet (all floors)
+
+GrLivArea: Above grade (ground) living area square feet
+######################################
+BsmtFullBath: Basement full bathrooms
+
+BsmtHalfBath: Basement half bathrooms
+
+FullBath: Full bathrooms above grade
+
+HalfBath: Half baths above grade
+########################################
+Exclusion from imputation
+
+#######################################
+Check label encoding assigned: ExterCond, ExterQual, BsmtQual, BsmtCond, BsmtExposure, BsmtFinType1, BsmtFinType2, HeatingQC, KitchenQual, Functional, GarageQual, GarageCond
+                                PoolQC, Fence
+
+#####################################
+Remove column: MiscFeature
+
+#######################################
+MoSold: Month Sold (MM)
+
+YrSold: Year Sold (YYYY)
