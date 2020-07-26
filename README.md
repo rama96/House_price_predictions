@@ -15,24 +15,17 @@ Run the following commands to get you SSH added to your git account.
 eval `ssh-agent -s`
 ssh-add -l
 ssh-add -D
-ssh-add ~/.ssh/id_rsa_work_user1
+ssh-add ~/.ssh/id_rsa_personal_user1
 ```
 
 Run the following commands to create a separate directory and virtual enviroment from which to run the bv-pricing framework.
 
 ```bash
-sudo apt install python3.7
+sudo apt install python3.8
 git clone https://github.com/rama96/House_price_predictions.git
-virtualenv -p python3.7 env
+virtualenv -p python3.8 env
 source env/bin/activate
 ```
 
 Now you are all set . Let the Code begin! 
 
-But not yet MFsss
-
-PLease Help
-Yaaro123
-
-rama
-szaass

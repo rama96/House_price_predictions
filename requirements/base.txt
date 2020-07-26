@@ -3,6 +3,10 @@ pandas-gbq
 pandasql
 numpy
 tensorflow
+scikit-learn
+xgboost
+seaborn
+sklearn_pandas
 
 # Process bar
 tqdm==4.33.0
